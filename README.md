@@ -4,5 +4,5 @@
 
 <br>
 
-<img src="./assets/cloneGoogleHomePage.jpg" alt="" align="left" weight="600" >
+https://github.com/melihBA/googleHomepage/blob/main/assets/cloneGoogleHomePage.JPG?raw=true
 
